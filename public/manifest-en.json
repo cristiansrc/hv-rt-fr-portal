@@ -1,0 +1,22 @@
+{
+  "name": "Cristian SRC - Full Stack Tech Lead - Senior Software Engineer - Java, React, Spring Boot, AWS and Python",
+  "short_name": "Cristian SRC",
+  "description": "Full Stack Tech Lead specialized in Java, React, Spring Boot, AWS and Python. Personal portfolio with experience, projects and skills.",
+  "start_url": "/?lang=en",
+  "display": "standalone",
+  "background_color": "#FFDB67",
+  "theme_color": "#FFDB67",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en-US",
+  "dir": "ltr",
+  "scope": "/",
+  "categories": ["portfolio", "business", "productivity"]
+}

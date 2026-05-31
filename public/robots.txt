@@ -1,0 +1,22 @@
+# robots.txt para cristiansrc.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://cristiansrc.com/sitemap.xml
+
+# Deshabilitar crawling de archivos específicos (opcional)
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Permitir todos los bots principales
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /

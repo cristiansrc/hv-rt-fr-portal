@@ -1,0 +1,68 @@
+{
+  "navigation": {
+    "top": "top",
+    "aboutMe": "about me",
+    "myServices": "my services",
+    "skills": "skills",
+    "experiences": "experiences",
+    "contact": "contact",
+    "resume": "Resume",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "switchLanguage": "Versión en español"
+  },
+  "hero": {
+    "basedIn": "based in ",
+    "nextChapter": "Next Chapter"
+  },
+  "aboutMe": {
+    "subtitle": "Some Word About Me",
+    "title": "Know Me More",
+    "dateOfBirth": "Date of Birth:",
+    "yearsOfExperience": "Years of experience",
+    "overlayText": "About Me"
+  },
+  "attainments": {
+    "highlightExpertise": "Highlight My Expertise in:",
+    "overlayText": "attainments"
+  },
+  "experience": {
+    "subtitle": "Highlight My key Experiences",
+    "title": "My Experience",
+    "overlayText": "experiences"
+  },
+  "contact": {
+    "subtitle": "Let's Get in touch",
+    "title": "Contact me",
+    "leaveMessage": "Leave a Message",
+    "overlayText": "contact",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "Your e-mail",
+      "messagePlaceholder": "Your message",
+      "submit": "Submit",
+      "sending": "Sending...",
+      "success": "Success",
+      "recaptchaError": "reCAPTCHA verification failed. Please try again.",
+      "submitError": "Error sending message. Please try again.",
+      "validationError": "Please fill in all fields.",
+      "altchaError": "Error: Could not get security challenge. Please reload the page."
+    },
+    "success": {
+      "title": "Message Sent!",
+      "message": "Thank you for contacting me. I have received your message and will respond as soon as possible.",
+      "close": "Close"
+    }
+  },
+  "error": {
+    "title": "Page Not Available",
+    "message": "Sorry, the page is not available at this time. Please redirect to my LinkedIn profile to contact me.",
+    "redirecting": "Redirecting in",
+    "second": "second",
+    "seconds": "seconds",
+    "goToLinkedIn": "Go to LinkedIn"
+  }
+}

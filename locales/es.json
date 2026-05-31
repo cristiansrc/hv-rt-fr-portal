@@ -1,0 +1,68 @@
+{
+  "navigation": {
+    "top": "inicio",
+    "aboutMe": "sobre mí",
+    "myServices": "mis servicios",
+    "skills": "habilidades",
+    "experiences": "experiencias",
+    "contact": "contacto",
+    "resume": "Hoja de vida",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "switchLanguage": "English version"
+  },
+  "hero": {
+    "basedIn": "ubicado en ",
+    "nextChapter": "Siguiente Capítulo"
+  },
+  "aboutMe": {
+    "subtitle": "Algunas Palabras Sobre Mí",
+    "title": "Conóceme Más",
+    "dateOfBirth": "Fecha de Nacimiento:",
+    "yearsOfExperience": "Años de experiencia",
+    "overlayText": "Sobre Mí"
+  },
+  "attainments": {
+    "highlightExpertise": "Destaca Mi Experiencia en:",
+    "overlayText": "habilidades"
+  },
+  "experience": {
+    "subtitle": "Destaca Mis Experiencias Clave",
+    "title": "Mi Experiencia",
+    "overlayText": "experiencias"
+  },
+  "contact": {
+    "subtitle": "Pongámonos en Contacto",
+    "title": "Contáctame",
+    "leaveMessage": "Deja un Mensaje",
+    "overlayText": "contacto",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo",
+      "message": "Mensaje",
+      "namePlaceholder": "Tu nombre",
+      "emailPlaceholder": "Tu correo electrónico",
+      "messagePlaceholder": "Tu mensaje",
+      "submit": "Enviar",
+      "sending": "Enviando...",
+      "success": "Éxito",
+      "recaptchaError": "Error al verificar reCAPTCHA. Por favor, intenta de nuevo.",
+      "submitError": "Error al enviar el mensaje. Por favor, intenta de nuevo.",
+      "validationError": "Por favor, completa todos los campos.",
+      "altchaError": "Error: No se pudo obtener el challenge de seguridad. Por favor, recarga la página."
+    },
+    "success": {
+      "title": "¡Mensaje Enviado!",
+      "message": "Gracias por contactarme. He recibido tu mensaje y te responderé en el menor tiempo posible.",
+      "close": "Cerrar"
+    }
+  },
+  "error": {
+    "title": "Página No Disponible",
+    "message": "Lo sentimos, la página no está disponible en este momento. Por favor, redirígete a mi perfil de LinkedIn para contactarme.",
+    "redirecting": "Redirigiendo en",
+    "second": "segundo",
+    "seconds": "segundos",
+    "goToLinkedIn": "Ir a LinkedIn"
+  }
+}
